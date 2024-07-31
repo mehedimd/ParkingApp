@@ -32,7 +32,7 @@ UI Angular-17 Github Link: https://github.com/mehedimd/parkingAppAngular17
 
 9. Can't remove any parked spot after free spot for parking then only remove possible
 
-       ![can't remove any booked spot](https://github.com/user-attachments/assets/0d3e7ee0-c43e-4977-80e7-e50b51c8783e)
+   ![can't remove any booked spot](https://github.com/user-attachments/assets/adc095a3-0e09-47ed-8c28-e63fa9b1d3cc)
 
 
 
