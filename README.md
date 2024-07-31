@@ -14,8 +14,9 @@ UI Angular-17 Github Link: https://github.com/mehedimd/parkingAppAngular17
    ![parking lavel](https://github.com/user-attachments/assets/42e0f00f-5442-40f3-b589-b311c0e0664d)
 
    Spot list under Lavel/floor
+   ![spot list under a lavel](https://github.com/user-attachments/assets/04dc51e1-9c2c-4f38-9b0c-540ab8cc4bbf)
+
    
-   ![Uploading spot list under a lavel.png…]()
 
 
 4. Lavel Create/Add new
@@ -36,7 +37,11 @@ UI Angular-17 Github Link: https://github.com/mehedimd/parkingAppAngular17
 
    ![all parking vehicle](https://github.com/user-attachments/assets/4801610f-c416-41e1-835a-802bb358eccf)
 
-9. Can't remove any parked spot after free spot for parking then only remove possible
+9. Now Spot list show booked and available spot
+   ![now spot list bookd and available showing](https://github.com/user-attachments/assets/2723972f-a9ad-4bf7-a47a-ddef8d7e9f13)
+
+    
+10. Can't remove any parked spot after free spot for parking then only remove possible
 
    ![can't remove any booked spot](https://github.com/user-attachments/assets/adc095a3-0e09-47ed-8c28-e63fa9b1d3cc)
 
