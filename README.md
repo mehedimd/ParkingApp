@@ -1,5 +1,11 @@
 UI Angular-17 Github Link: https://github.com/mehedimd/parkingAppAngular17
 
+##Feature:
+
+1. Create Parking Lavel/Floor type specefic (Car,Motorcycle or Truck etc.) and floor wise add parking spot
+2. park vehicle Type Wise automatic find available spot and booked spot.
+3. Unpark Vehicle and booked spot also available after unpark a vehicle.
+
 1.Dashboard Interface
    ![parking dashboard](https://github.com/user-attachments/assets/02603232-3e15-44f0-a413-919042c10107)
 
